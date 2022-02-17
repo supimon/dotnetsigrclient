@@ -6,7 +6,7 @@ This is the same version powering the Umbraco 8.16.0 CMS used on RF
 Built with VS 2022
 
 ## Dependencies
-#### SignalR Client version: 2.4.3
+#### SignalR Client version: 6.0.2
 SignalR Client Identification on Nuget: https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Client
 
 ## Report
