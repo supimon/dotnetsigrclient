@@ -2,7 +2,7 @@
 
 ## ASP.net version
 #### ASP.net version: 4.7.2
-This is the same version powering the Umbraco 8.16.0 CMS used on RF
+This is the same version powering the Umbraco 8.16.0 CMS used on RF.  
 Built with VS 2022
 
 ## Dependencies
@@ -10,7 +10,7 @@ Built with VS 2022
 SignalR Client Identification on Nuget: https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.Client
 
 ## Report
-Initially the earlier version of SignalR library (for legacy version) was found to be not compatible to work with the .NET Core version used on SKChase server.
+Initially the earlier version of SignalR library (for legacy version) was found to be not compatible to work with the .NET Core version used on SKChase server.  
 And therefore the latest SignalR library meant for .NET Core was used.
 
 ## Server end point and Parameters
