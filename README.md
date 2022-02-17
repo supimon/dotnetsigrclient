@@ -20,7 +20,7 @@ And therefore the latest SignalR library meant for .NET Core was used.
 
 
 ## Response
-<!--
+```
 [{
 		"catalogueId": "b00c0000-0000-0000-0000-000000001056",
 		"name": "Golf Academy 6 x 1 hour lessons",
@@ -1904,4 +1904,4 @@ And therefore the latest SignalR library meant for .NET Core was used.
 		"id": "019736c9-1d61-456e-b6a5-c0f1c2e2d679"
 	}
 ]
--->
+```
